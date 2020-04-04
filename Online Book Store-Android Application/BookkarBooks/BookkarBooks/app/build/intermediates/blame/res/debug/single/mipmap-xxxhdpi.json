@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\bkb_logo.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\src\\main\\res\\mipmap-xxxhdpi\\bkb_logo.png"
+    }
+]

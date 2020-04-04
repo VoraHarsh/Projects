@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\build\\intermediates\\res\\merged\\debug\\animator\\card_flip_right_in.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\build\\intermediates\\exploded-aar\\com.craftman.cardform\\cardform\\0.0.2\\res\\animator\\card_flip_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\build\\intermediates\\res\\merged\\debug\\animator\\card_flip_left_in.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\build\\intermediates\\exploded-aar\\com.craftman.cardform\\cardform\\0.0.2\\res\\animator\\card_flip_left_in.xml"
+    }
+]

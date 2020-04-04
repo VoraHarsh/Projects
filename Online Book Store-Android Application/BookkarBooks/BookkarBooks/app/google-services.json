@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "961875277932",
+    "firebase_url": "https://bookkarbooks-881ad.firebaseio.com",
+    "project_id": "bookkarbooks-881ad",
+    "storage_bucket": "bookkarbooks-881ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961875277932:android:d7244e043e6b325e",
+        "android_client_info": {
+          "package_name": "com.harshvora.bookkarbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961875277932-5sp99j05qovuj3shki48ep2lb4l1oqln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshvora.bookkarbooks",
+            "certificate_hash": "03ce6dd10fea6c08db6c2dca91a80037ced0bc73"
+          }
+        },
+        {
+          "client_id": "961875277932-vqens6ntnn98i1h1acnu9md496478upj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfNTybAM5Sj3Ywkfm2s7UXGh6p6iNUXGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961875277932-vqens6ntnn98i1h1acnu9md496478upj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

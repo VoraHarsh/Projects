@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_190134c1abd6b04eb493f664f5e59404d7741afa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.craftman.cardform\cardform\0.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47549bab732651cc0f8e403181fc460450fe8a93">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.craftman.cardform-cardform-0.0.2_609cab19927bfb5ff91c85055c6bc3c1dcce25d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.0_68846b56f2382580b062cc63e7a7a70a973ba81b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_a5ea355c4212ce7f5b0202a02b74cd68704e9f9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.0_a8988380dabea083d4638e563e49bdc21dad79a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_538d2d131c441271d2cbcca85e587a5313db85a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="016bdf0e871204cd02dfdb5ebffef1a045744bd5">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a5db6ff78463211fdc65fd2fced6b562f4c1eeca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_f48ada87ca21e3a74ed7ce7acfa96eceef990f47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_19852e1d518a464ede752d5f05c9e74322fdfa82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.rengwuxian.materialedittext-library-2.1.4_0ac6788b761de9b23ba1e02265c206e2f3a4cd2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\info.hoang8f\fbutton\1.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\info.hoang8f-fbutton-1.0.5_6f4361834d1da18792512b66b65ccc0cdafb7837\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5bcd9cbfeedc58f493339841a7c5d0347a39f0b">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-1.2.0_f8b190d6fa00327f2e9a249f2f067cf65d6a1f8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_3752f12a658ca692ec609117c73a40885e8aece7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.github.mancj\MaterialSearchBar\0.7.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0517ab16518ddfe89059f49418b2e9f6d5b20aa">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.mancj-MaterialSearchBar-0.7.1_3076c6075d92abbc83e8bb3ec69648c90bffea94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_67a5c04e32c3fd01b127bd5d75569f5103949d9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80aed69af2d8250f7c68790e5cef358b0fc65a1c">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_50e4bf170cd5c0f185cdb3c3d313f73d3d7e4fa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_3daa322b5fe269abab7f49e85a362e0afa2051ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.2_db5dd8c11ba9426e29aef4bd9660a9ae26634633\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.0_937cf4dc835f9e41b8ae8fc9e20d763e3d4d1e3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_1813e06cdad77a07f7a28eff960ee09aaae27845\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_dd056007936a93e06e9eeb05fb4f82a72dececec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_ed082c4e0579fd1a4620b6b02dcb8eda34a03e2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.cepheuen.elegant-number-button\lib\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="701711f6654cffea5adc92ac21767340edf7ef02">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.cepheuen.elegant-number-button-lib-1.0.2_465b1ac05efeabd1aa07c34fac4d651d923b0314\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_ef711adfc218c6559e6b1fe6a67f40dcf5d3df01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_920962a18c780f794b6165765388d7a7f3323675\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\sqliteassethelper-2.0.1_4c2c845d2fc251a8335f4cb2d581677524de6261\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_694cbc3bd85b177f5fd70f5a1528de82d52afe39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.0_3acc47a1edca9702f985351e4421f4e2f34ef955\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_fc689e9c639e743ce22483cc3fe0ffc6e43eb9e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.0_867ea9c3191a25ba6530b3a89b2c42a54dde3a4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.0_aae257ccf2fb58f0485c91b685caef17bd6d2b74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.0_e5311ada9dd36f2ce63910cddb2e2fc477d17cd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_695153fe1b118022cc2badf36b6ff3d69b55a3d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_8eee1ebea9d3c385bcc4694159653105f92f69c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.0_734da05d27c67e3e353969afabf9520a0055aa6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Harsh\AndroidStudioProjects\BookkarBooks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.1_b4ae05d65f782967848842da331f3fbcc3d59549\classes.dex" />
+    </item>
+
+</items>

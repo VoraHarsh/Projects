@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    }
+]

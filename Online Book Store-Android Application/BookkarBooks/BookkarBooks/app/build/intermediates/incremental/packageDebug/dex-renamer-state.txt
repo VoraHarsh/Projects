@@ -1,0 +1,7 @@
+#Thu Feb 22 22:08:56 IST 2018
+base.0=C\:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a5db6ff78463211fdc65fd2fced6b562f4c1eeca
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_50e4bf170cd5c0f185cdb3c3d313f73d3d7e4fa7\\classes.dex
+base.1=C\:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_50e4bf170cd5c0f185cdb3c3d313f73d3d7e4fa7
+file.0=C\:\\Users\\Harsh\\AndroidStudioProjects\\BookkarBooks\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a5db6ff78463211fdc65fd2fced6b562f4c1eeca\\classes.dex

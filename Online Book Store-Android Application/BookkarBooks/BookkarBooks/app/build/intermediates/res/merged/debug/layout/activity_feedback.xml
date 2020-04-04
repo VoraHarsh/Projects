@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_feedback"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bookbckgrnd2"
+    tools:context="com.harshvora.bookkarbooks.Feedback">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:hint="Share what you love about this app, or what we could do better."
+            android:gravity="top"
+            android:id="@+id/feedback"
+            android:background="@android:color/white"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="250dp" />
+
+        <TextView
+            android:textAlignment="gravity"
+            android:text="If you have more detailed feedback to share, good and bad, we want it all.Just drop an email to harshvora242@gmail.com"
+            android:layout_marginTop="10dp"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+
+        <info.hoang8f.widget.FButton
+            android:id="@+id/btnSubmit"
+            android:layout_marginRight="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_alignParentBottom="true"
+            android:text="Submit"
+            android:textColor="@android:color/white"
+            android:layout_margin="8dp"
+            android:shadowColor="@android:color/black"
+            app:shadowEnabled="true"
+            app:shadowHeight="5dp"
+            app:cornerRadius="4dp"
+            app:buttonColor="@color/btnSignActive"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

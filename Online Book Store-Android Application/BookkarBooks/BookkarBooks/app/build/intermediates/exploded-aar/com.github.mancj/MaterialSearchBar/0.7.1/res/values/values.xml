@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="transparentBlack">#96000000</color>
+    <declare-styleable name="MaterialSearchBar"><attr format="reference" name="mt_searchIconDrawable"/><attr format="reference" name="mt_navIconDrawable"/><attr format="string" name="mt_hint"/><attr format="string" name="mt_placeholder"/><attr format="string" name="mt_maxSuggestionsCount"/><attr format="boolean" name="mt_speechMode"/><attr format="color" name="mt_hintColor"/><attr format="color" name="mt_textColor"/><attr format="boolean" name="mt_navIconEnabled"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="icon_size">50dp</dimen>
+    <string name="action_placeholder">Your App Name</string>
+    <string name="action_search">Search</string>
+    <string name="app_name">MaterialSearchBar</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>
